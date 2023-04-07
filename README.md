@@ -1,3 +1,10 @@
+# Description
+Expense Management System using MERN Stack in CURD Operation, for the user can see the income and expense of their statment in graphical and table view.
+
+# Prodution URL
+
+https://poo-ems.netlify.app/login
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
